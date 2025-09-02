@@ -1,0 +1,35 @@
+BITACORA ALGORITMOS Y PROGRAMACION 02/09/2025
+Nombre: Jhoan Raul Acosta Piedrahita
+Control de versiones: Es un sistema donde se incluye un registro de los cambios sobre
+los archivos a lo largo del tiempo.
+Nos permite un uso mas facil del trabajo colaborativo y tener un respaldo de los
+archivos.
+
+Repositorio: Es un directorio de trabajo para poder organizar un proyecto.
+
+Repositorio Local: Se encuentra en nuestro propio equipo 
+
+Repositorio remoto: Se encuentra alojado en la nube, al encontrarse en un servidor
+externo.
+
+Github: Plataforma de almacenamiento en el control de versiones y colaboracion.
+
+Buscadores de internet: Son aplicaciones informaticas que rastrean la red de internet.
+El rastreo se realiza a traves de algoritmos propios.
+
+*Yahoo utiliza WebRank.
+*Big utiliza un algoritmo que analiza factores como el contenido de una pagina.
+*Google utiliza el llamado PageRank.
+
+Buscador de internet Google: Es un motor de busqueda en la web propiedad de Google Inc. Es el motor de busque
+da mas utilizado en la web.
+
+Comandos de busqueda:
+
+-:Indica que la busqueda no debe contener esa palabra.
+or: Indica que la busqueda debe contener una palabra o la otra.
+"":Indican que solo se deben buscar paginas que contengan exactamente dichas palabras. 
++: EL simbolo sirve para que en la busqueda se agregue la palabra y encontar paginas 
+que la incluyan.
+Define: Significado de la palabra.
+
