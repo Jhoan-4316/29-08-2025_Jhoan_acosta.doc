@@ -33,3 +33,9 @@ or: Indica que la busqueda debe contener una palabra o la otra.
 que la incluyan.
 Define: Significado de la palabra.
 
+HERRAMIENTAS PARA LA DETECCION DEL USO DE IA 
+
+*ZeroGP: Analiza el texto para determinar la probabilidad de IA.
+*GPTZero: Ofrece un analisis detallado basado en puntuaciones de "perplejidad" y "aleatoriedad".
+*Originality.ai: Detecta texto generado por IA y verifica el plagio.
+
