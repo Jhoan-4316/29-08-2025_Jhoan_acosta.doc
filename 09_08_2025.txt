@@ -44,4 +44,12 @@ cd ..:Regresa al directorio principal.
 rm -r: Elinima el contenido del directorio creado.
 
 ¿Que ventajas tiene usar la terminal en comparacion con la interfaz grafica?
+Observo que tiene una mayor rapidez para poder realizar alguna tarea que tengamos, tambien nos 
+permite automatizar procesos mediante los archivos de texto y utiliza un mayor control sobre el
+sistema. 
+
+¿Que comandos podrian facilitar la automatizacion de tareas repetitivas?
+los comandos que hemos utilizado como : cp, mv, rm, mkdir para poder tener una manipulacion 
+mas facil en los archivos. 
+
 
