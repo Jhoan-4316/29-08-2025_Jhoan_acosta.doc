@@ -1,0 +1,47 @@
+Nombre: Jhoan Raul Acosta Pidrahita
+Codigo: 20241135035
+Taller_2_Programacion
+
+pwd: Es una ruta completa donde nos encontramos dentro del sistema.
+
+ls: Aparecen los archivos y carpetas que exiten dentro del directorio actual.
+
+mkdir practicas_linux: Crea un directorio nuevo llamado practicas_linux
+
+cd practicas_linux: Cambia el directorio actual e ingresa a la carpeta "practicas".
+
+touch archivo1.txt: Crea un archivo vacìo.
+
+ls -l: Lista los archivos en un formato largo donde se muestran los permisos, el usuario
+, el tamaño de los bytes, la fecha y hora de modificaciòn y el nombre del archivo.
+
+cp archivo1.txt archivo2.txt: copia el archivo anterior y lo guarda con el nuevo nombre
+"archivo2.txt".
+
+mv archivo2.txt: Se utiliza paa mover o renombrar archivos, renombra archivo2.txt a 
+documentos.txt.
+
+rm documentos.txt: Elimina el archivo anterior.
+
+cd: Nos regresamos al directorio principal.
+
+rm -r practicas _linux: Elimina el directorio practicas_linux con todo el contenido.
+
+*Preguntas 
+
+¿Cual fue el proposito de cada comando ejecutado?
+
+pwd: Mostrar la ruta completa 
+ls: muestra las carpetas y archivos.
+mkdir: crea un directorio.
+cd: Cambia de directorio.
+touch: Crea un archivo sin nada.
+ls -l: Muestra los archivos con detalles.
+cp: Copia un archivo.
+mv: Renombra un archivo.
+rm: Elimina un archivo.
+cd ..:Regresa al directorio principal.
+rm -r: Elinima el contenido del directorio creado.
+
+¿Que ventajas tiene usar la terminal en comparacion con la interfaz grafica?
+
