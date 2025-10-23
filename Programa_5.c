@@ -5,7 +5,7 @@
  
 // d muestra numeros enteros en base decimal
 // i muestra enteros en decimal, octal y hexadecimal
-// x muestra el numero en base el 16 
+// x muestra el numero en base 16 
 // o muestra el numero en base 8
 // u muestra enteros sin signos
 // c muestra el caracter ASCII 
