@@ -1,6 +1,6 @@
 // JHOAN RAUL ACOSTA PIEDRAHITA 
 // 24 DE OCTUBRE DE 2025
-//
+//Este programa demuestra el uso de if.
 
 #include <stdio.h>   // Librería 
 
